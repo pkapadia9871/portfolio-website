@@ -85,6 +85,10 @@ a:active {
   color: #489c79;
 }
 
+.navigation-list {
+  list-style-type: none;
+}
+
 
 .button__secondary :hover {
   /* No underlining when hovering over a link */
