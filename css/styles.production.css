@@ -13,7 +13,7 @@ body {
   /* Sets the font size to 16px */
   line-height: 1.6;
   /* Sets the line-height to 1.6 */
-  background-color: lightgray;
+  background-color: rgb(255, 255, 255);
 }
 
 h1 {
